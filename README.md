@@ -20,3 +20,4 @@ the final r2 score on test data was 0.42.
 I have store the test dataset engagement score to the saparate CSV file. This file contains the raw_id and the respective engagement score.
 
 **future scope**
+In the dataset some features has skewed distribution, so we can transform the distribution, becouse most of the model work better if data shows the Normal distribution.
